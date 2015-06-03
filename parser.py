@@ -1,7 +1,7 @@
 import simplejson as json
 from pprint import pprint
 
-f = open('/root/pshitt-master/passwords.json')
+f = open('/path/to/pshitt-master/passwords.json')
 
 #get the css files from http://getskeleton.com/#intro if you're interested in making it look decent.
 print  "<link rel=\"stylesheet\" href=\"css/normalize.css\">"
